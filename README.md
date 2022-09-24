@@ -4,7 +4,7 @@
   
   My name is Michael Makarenko.  
   I'm a 4th Year [Computer Science](https://www.tcd.ie/courses/undergraduate/courses/computer-science) Student at [Trinity College Dublin](https://www.tcd.ie).  
-  I am studying in an integrated Bachelor's/Master's course, and am aiming for the Master's Degree.
+  I am studying in an integrated Master's course, and am aiming for BA(Mod) and Master's in Computer Science degrees.
   
   ![](https://github-readme-stats.vercel.app/api?username=Zugidor&show_icons=true&theme=algolia&line_height=27.5)
   
